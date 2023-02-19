@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Happy Coding</string>
+    <string name="happy_coding_callee">HyoungJoon</string>
+    <string name="happy_coding_caller">Sayuki</string>
 </resources>
